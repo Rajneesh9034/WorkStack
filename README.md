@@ -41,7 +41,7 @@ npm install
 
 Seed the database (first run only):
 
-npm run seeder
+npm run seed
 
 
 This creates a dummy user, projects, and tasks.
