@@ -72,7 +72,7 @@ npm run dev
 
 🔑 Login Credentials (Seeded User)
 Email	Password
-dummy@example.com
+test@example.com
 	Test@123
 Optional Commands
 
